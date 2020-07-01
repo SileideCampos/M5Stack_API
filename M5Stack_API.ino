@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
  
-const char* ssid  = "dlink-261E";
-const char* senha = "fmqzd20809";
+const char* ssid  = "usuario-da-rede";
+const char* senha = "senha-da-rede";
 String serverName = "URL-SERVIDOR";
  
 void setup() { 
